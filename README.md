@@ -1,4 +1,11 @@
 # Identifikasi, Ingestion, dan Penyimpanan Data Saham
+## Anggota
+- Mochamad Zidan Rusdhiana (2305464)
+- Muhammad Daffa Ma'arif (2305771)
+- Yusrilia Hidayanti (2306828)
+- Ismail Fatih Raihan (2307840)
+- Hafsah Hamidah (2311474)
+- Yahyo Abdullozoda (2313368)
 
 ## Latar Belakang
 Dalam analisis keuangan, data laporan keuangan dan berita pasar memainkan peran penting dalam memahami pergerakan pasar saham. **Yahoo Finance (yfinance)**, **IDX (Bursa Efek Indonesia)**, dan **IQPlus** menyediakan berbagai data penting yang digunakan untuk analisis pasar saham. Proses pengumpulan data dilakukan menggunakan teknik seperti API, XML parsing, dan web scraping, yang kemudian disimpan dalam MongoDB untuk analisis lebih lanjut.
